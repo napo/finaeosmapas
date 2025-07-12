@@ -1,7 +1,7 @@
 ## Pagina Principale
 
 Fina e le mappe
-Come una grande mappa del mondo viene creata da tanti piccoli luoghi
+Alla scoperta delle mappe collaborative.
 
 ## Ringraziamenti
 
@@ -12,7 +12,7 @@ illustrazioni: Iria Iglesias
 questa edizione: Asociación GHANDALF
 
 Quest'opera è distribuita con licenza
-Creactive Commons 4.0 Internazionale,
+Creative Commons 4.0 Internazionale,
 con clausole di Attribuzione e Condivisione.
 (CC BY-SA 4.0 Internazionale)
 La mappa in copertina proviene da openstreetmap.org/copyright
@@ -28,7 +28,7 @@ Finanziamento pubblico: AMTEGA (Xunta de Galicia)
 ## Pagina 3
 
 Fina e le mappe
-Alla scoperta delle mappe collaborative..
+Alla scoperta delle mappe collaborative.
 
 Testo: Pablo Sanxiao
 Illustrazioni: Iria Iglesias
@@ -39,7 +39,7 @@ Fina è una dodicenne.
 
 Ama la tecnologia e passare il tempo con il tablet o il computer. 
 
-Ma non li usa solo per giocare, anzi, un po' lo fa, ma quello che gli piace di più è indagare e imparare cose nuove.
+Ma non li usa solo per giocare, anzi, un po' lo fa, ma quello che le piace di più è indagare e imparare cose nuove.
 
 ## Pagina 5
 
@@ -100,7 +100,7 @@ perché provenivano direttamente da persone che erano state in quei luoghi.
 
 ## Pagina 13
 
-- Ma Nonna, allora per fare una mappa c'era bisogno di tante persone”, dice Fina pensierosa. 
+- Ma Nonna, allora per fare una mappa c'era bisogno di tante persone - dice Fina pensierosa. 
 
 - Naturalmente, Fina, ogni persona ha contribuito con una piccola ma preziosa informazione, 
 e tutti insieme hanno reso possibile la creazione di mappe complete del mondo.
@@ -115,21 +115,23 @@ e tutti insieme hanno reso possibile la creazione di mappe complete del mondo.
 ## Pagina 15
 
 Quando torna a casa, Fina corre subito in camera sua per saperne di più sulle mappe. Un progetto attira la sua attenzione.
-Si chiama OpenStreetMap e viene descritto così: “Nel progetto OpenStreetMap stiamo creando insieme una mappa del mondo. Tutti possono partecipare.
+Si chiama OpenStreetMap e viene descritto così: "una mappa del mondo creata da persone come te 
+e disponibile liberamente per chiunque"
 
 ## Pagina 16
 
 Il giorno dopo va a trovare la nonna, Fina è molto emozionata. 
 Vuole raggiungerla il prima possibile per raccontarle la sua scoperta.
 
-- Guarda, Nonna! Ho trovato un progetto fantastico.
-Chiunque può contribuire a creare una mappa del mondo con Internet,
-disegnando i luoghi che si conoscono. È la stessa cosa che mi hai raccontato dei cartografi!
+- Guarda, Nonna!  Ho trovato un progetto fantastico.
+Attraverso Internet chiunque può contribuire a costruire la mappa del mondo,  disegnando i luoghi che si conoscono.
+È la stessa cosa che mi hai raccontato dei cartografi!
 
 ## Pagina 17
 
 - Ma ora con la tecnologia di oggi, è tutto è più facile, Nonna, guarda. 
-Ho creato il mio account e ora posso aggiungere informazioni alla mappa, vedi? A casa ho disegnato l'edificio della scuola, che non c'era, e ci ho aggiunto anche il nome, 
+Ho creato il mio account  e ora posso aggiungere informazioni alla mappa, vedi?
+A casa ho disegnato l'edificio  della scuola, che non c'era, ed ho aggiunto anche il nome.
 Ed ora è sulla mappa! Vedi?!
 
 ## Pagina 18
@@ -154,10 +156,8 @@ Fina ha con sé il suo tablet e durante la passeggiata confronta i dintorni con 
 Ogni volta che scoprono un strada o un luogo importante non ancora segnalato, si fermano per aggiungerlo.
 
 ## Pagina 21
-
-— Oh, pues verás, abuela. Los datos son libres, cualquiera puede usarlos para lo que necesite, sin pagar ni pedir permiso, solo diciendo de dónde vienen.
-
-Aggiungono così anche un negozio di dolci. Fina, che è molto golosa, ne approfitta per comprare dei dolci.
+L'ultima cosa che hanno aggiunto è stato il negozio di dolci, e a proposito, 
+Fina che è un po' golosa,ne ha presi alcuni da mangiare.
 
 - Cosa succede ai dati che stiamo aggiugendo?
 - Vedi Nonna, i dati sono liberi, chiunque può utilizzarli per quello che gli serve, senza pagare o chiedere il permesso, solo dicendo da dove vengono.
@@ -182,10 +182,17 @@ grazie alla nostra conoscenza locale e al lavoro di squadra.
 
 Associazione GHANDALF
 
-Siamo un'organizzazione senza scopo di lucro. Lavoriamo per la divulgazione della cultura libera: Software Libero, Hardware Libero e Dati Aperti. Per raggiungere questo obiettivo, realizziamo attività di vario tipo, organizzando e collaborando a eventi, workshop, conferenze… In qualsiasi luogo in cui si diffonda la cultura libera, puoi trovare una ghandalfeira.
+Siamo un'organizzazione senza scopo di lucro. Ci occupiamo di promuovere la cultura aperta: software libero, hardware libero e dati aperti.
+Per raggiungere questo obiettivo, svolgiamo ogni tipo di attività, organizzando e collaborando a eventi, workshop, conferenze...
+ovunque si condivida la cultura aperta, potete trovare una "ghandalfeira".
 
-In quanto associazione galiziana, vogliamo mettere in evidenza la diffusione della cultura libera nella nostra lingua e contribuire a una maggiore disponibilità di documentazione tecnica in galiziano. Per questo motivo, realizziamo progetti di redazione e traduzione di documentazione legata al Software Libero in galiziano. Dai un’occhiata alle nostre pubblicazioni!
+In quanto associazione galiziana, vogliamo promuovere la cultura aperta e creare più documentazione tecnica in galiziano.
+Per questo motivo intraprendiamo progetti di pubblicazione e traduzione relativi al software libero in galiziano. Date un'occhiata alle nostre
+altre pubblicazioni.
 
-Pensiamo inoltre che sia fondamentale trasmettere i valori del Software Libero e della cultura libera alle nuove generazioni, per questo ci impegniamo a organizzare conferenze e laboratori nelle scuole e nei centri educativi della Galizia.
+Riteniamo inoltre molto importante diffondere i valori del software libero e della cultura aperta tra i giovani,
+motivo per cui organizziamo conferenze e workshop nei centri educativi galiziani.
 
-Se vuoi contribuire a migliorare la società attraverso la tecnologia, all'Associazione GHANDALF saremo felici di offrirti tutto il supporto possibile.
+Se desiderate collaborare per sfruttare la tecnologia al fine di migliorare la società, l'Associazione GHANDALF sarà lieta di
+offrirvi tutto l'aiuto possibile.
+
